@@ -1,0 +1,36 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.token
+*.pem
+
+# Python and test artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Airflow runtime
+airflow-home/
+airflow.db
+airflow.cfg
+logs/
+
+# Collected lots and curated exports
+chegada/
+mvp/dados/*.csv
+mvp/dados/*.json
+mvp/dados/*.zip
+amostras/*.jsonl
+
+# FIAP hand-in contains local-only PDF, evidence and identities
+entrega_local/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

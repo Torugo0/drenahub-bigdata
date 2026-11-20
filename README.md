@@ -2,7 +2,13 @@
 
 Pipeline de engenharia de dados da Global Solution FIAP 2026. O piloto combina precipitação horária **real** da Open-Meteo para São Paulo com leituras **sintéticas** de três pontos fictícios de drenagem. O objetivo é apoiar inspeções e manutenção preventiva; as métricas não representam alagamentos confirmados ou evitados.
 
-**Integrantes:** Gabriel Machado Carrara Pimentel, Lourenzo Ramos e Vítor Hugo Rodrigues. Os RMs constam somente no relatório local da disciplina.
+## Integrantes
+
+| Aluno | RM |
+|---|---|
+| Gabriel Machado Carrara Pimentel | RM99880 |
+| Lourenzo Ramos | RM99951 |
+| Vítor Hugo Rodrigues | RM97758 |
 
 ## Perguntas do MVP
 
